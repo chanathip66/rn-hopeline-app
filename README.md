@@ -8,13 +8,21 @@
 
 ## 📱 หน้าจอของแอป (Screenshots)
 
+<div align="center">
+
 | Splash | Sign In | Sign Up |
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/ea9e30e1-4678-4381-b0fe-57ea78e27af0" width="220" /> | <img src="https://github.com/user-attachments/assets/a1d2616a-af14-430f-9258-5091d9d6c8ec" width="220" /> | <img src="https://github.com/user-attachments/assets/1ba85127-c733-4b0d-a958-4722204e084f" width="220" /> |
 
+</div>
+
 ### 🎬 Demo Video
 
+<div align="center">
+
 https://github.com/user-attachments/assets/02270911-d228-4227-a33a-22a34dff36d7
+
+</div>
 
 ---
 
